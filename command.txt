@@ -1,0 +1,1 @@
+docker run --rm -v :/root/env myos-buildenv
