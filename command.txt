@@ -1,1 +1,1 @@
-docker run --rm -v :/root/env myos-buildenv
+sudo docker run --rm -it -v ./:/root/env myos-buildenv
